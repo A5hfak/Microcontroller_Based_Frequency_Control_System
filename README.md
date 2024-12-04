@@ -13,7 +13,3 @@
 
 ### **Documentation**
    - I am not adding the documentation and other files here as it is a public repo. 
-
-   ```markdown
-   ![License](https://img.shields.io/github/license/A5hfak/Microcontroller_Based_Frequency_Control_System)
-   ```
